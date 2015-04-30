@@ -1,0 +1,7 @@
+var ul = $(".ProductList");
+var soldOutLi = ul.children("li.SoldOut");
+
+soldOutLi.detach().sort(function(a, b) {
+    return a;
+});
+ul.append(soldOutLi);
