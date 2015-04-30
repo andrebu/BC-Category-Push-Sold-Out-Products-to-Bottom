@@ -1,7 +1,18 @@
-var ul = $(".ProductList");
-var soldOutLi = ul.children("li.SoldOut");
-
-soldOutLi.detach().sort(function(a, b) {
-    return a;
-});
-ul.append(soldOutLi);
+<script type="text/javascript">
+	var productList = $(".ProductList");
+	var soldOutLi = productList.children("li.SoldOut");
+	function reorderCategoryListItems() {
+		productList.find(soldOutLi).appendTo(productList);
+	};
+	
+	$(document).ready(function() {
+		reorderCategoryListItems();
+	});
+		
+/*
+	soldOutLi.detach().sort(function(a, b) {
+	    return a;
+	});
+	productList.append(soldOutLi);
+*/
+</script>
