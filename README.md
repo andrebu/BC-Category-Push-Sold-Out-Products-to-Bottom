@@ -35,9 +35,10 @@ BigCcommerce plugin to Hide selected Wholesale Prices and Items unless user is l
 - [reorder list elements - jQuery?](http://stackoverflow.com/questions/3050830/reorder-list-elements-jquery)
 - [jQuery move list item to end of list](http://stackoverflow.com/questions/3814025/jquery-move-list-item-to-end-of-list)
 - [How may I sort a list alphabetically using jQuery?](http://stackoverflow.com/questions/1134976/how-may-i-sort-a-list-alphabetically-using-jquery)
-- [JavaScript Array sort() Method](http://www.w3schools.com/jsref/jsref_sort.asp)
 - [JQuery move list item to end of unordered list](http://stackoverflow.com/questions/17612547/jquery-move-list-item-to-end-of-unordered-list)
-- []()
+- [jQuery: Select only a class containing a string?](http://stackoverflow.com/questions/4106958/jquery-select-only-a-class-containing-a-string)
+- [JavaScript Array sort() Method](http://www.w3schools.com/jsref/jsref_sort.asp)
+- [W3School Try It! Widget: JavaScript Array sort() Method](http://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_sort2)
 
 
 
