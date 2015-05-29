@@ -1,15 +1,10 @@
-# BC-Wholesale-Price-and-Item-Hide
-BigCcommerce plugin to Hide selected Wholesale Prices and Items unless user is logged in as a wholesale account.
+# BC-Push-Sold-Out-Products-To-Bottom
+BigCcommerce plugin to push all sold out products on category and brand pages to the bottom of the list.
 
 
 ## Installation
 
-1. Install the HideWholesalePrices.html Panel reference (**%%Panel.WholeSaleFunctions%%**) into **Panels/ProductDetails.html** into the "div .PriceRow.p-price" DIV of the desktop section
-7. Install the HideWholesalePrices.html Panel reference (**%%Panel.WholeSaleFunctions%%**) into **Panels/CategoryContent.html**, at the very bottom, as the last line
-8. Finally, copy file **HideWholesalePrices.html** over to dav/template/Panels in your WedDAV account.
-    1. To access your WebDAV panel, BigCommerce gives you instructions in your Admin Panel.  
-    2. Click "Design" in the top right corner of your store admin panel.  
-    3. Then click "WebDAV" in the "Current Theme" section and follow the instructions
+1. 
 
 
 
@@ -32,14 +27,9 @@ BigCcommerce plugin to Hide selected Wholesale Prices and Items unless user is l
 
 
 ##Resources
-- [reorder list elements - jQuery?](http://stackoverflow.com/questions/3050830/reorder-list-elements-jquery)
-- [jQuery move list item to end of list](http://stackoverflow.com/questions/3814025/jquery-move-list-item-to-end-of-list)
-- [How may I sort a list alphabetically using jQuery?](http://stackoverflow.com/questions/1134976/how-may-i-sort-a-list-alphabetically-using-jquery)
-- [JQuery move list item to end of unordered list](http://stackoverflow.com/questions/17612547/jquery-move-list-item-to-end-of-unordered-list)
-- [jQuery: Select only a class containing a string?](http://stackoverflow.com/questions/4106958/jquery-select-only-a-class-containing-a-string)
-- [JavaScript Array sort() Method](http://www.w3schools.com/jsref/jsref_sort.asp)
-- [W3School Try It! Widget: JavaScript Array sort() Method](http://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_sort2)
-
+- []()
+- []()
+- []()
 
 
 
@@ -66,6 +56,7 @@ BigCcommerce plugin to Hide selected Wholesale Prices and Items unless user is l
 * [BigCommerce ThumbScroll](https://github.com/iamandrebulatov/BC-ThumbScroll)
 * [BigCommerce Product Accessory Options Choice Upsell](https://github.com/iamandrebulatov/BC-Product-Accessory-Options-Choice-Upsell)
 * [BigCommerce Navigation Dynamic List Item Visual Cues](https://github.com/iamandrebulatov/BC-Nav-Dynamic-List-Item-Visual-Cues)
+* [BigCommerce Contact Form](https://github.com/iamandrebulatov/BC-Contact-Form)
 
 
 ------------------------------------------------------------------------------------
